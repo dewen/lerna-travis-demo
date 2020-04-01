@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.0.2-beta.2] - 2020-04-01 [YANKED]
+
 ## [0.0.2-beta.1] - 2020-04-01 [YANKED]
 
 ## [0.0.2-beta.0] - 2020-04-01 [YANKED]
@@ -37,7 +39,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - foo
   - new foo message
 
-[unreleased]: https://github.com/:dewen/lerna-travis-demo/compare/v0.0.2-beta.1...HEAD
+[unreleased]: https://github.com/:dewen/lerna-travis-demo/compare/v0.0.2-beta.2...HEAD
+[0.0.2-beta.2]: https://github.com/:dewen/lerna-travis-demo/compare/v0.0.2-beta.1...v0.0.2-beta.2
 [0.0.2-beta.1]: https://github.com/:dewen/lerna-travis-demo/compare/v0.0.2-beta.0...v0.0.2-beta.1
 [0.0.2-beta.0]: https://github.com/:dewen/lerna-travis-demo/compare/v0.0.1...v0.0.2-beta.0
 [0.0.1]: https://github.com/:dewen/lerna-travis-demo/compare/v0.0.1-beta.8...v0.0.1
