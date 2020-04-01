@@ -1,5 +1,5 @@
-const foo = require('@geut/foo')
+const foo = require('@dewen_li/foo')
 
-console.log('geut: baz')
-console.log('geut: code with opinions')
+console.log('dewen: baz v3')
+console.log('dewen: code with opinions')
 foo()
