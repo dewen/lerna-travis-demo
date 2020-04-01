@@ -1,6 +1,6 @@
 {
   "name": "@dewen_li/baz",
-  "version": "0.0.1-beta.7",
+  "version": "0.0.1-alpha.1",
   "description": "nothing to see here",
   "main": "index.js",
   "scripts": {
