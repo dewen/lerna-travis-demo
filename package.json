@@ -1,5 +1,5 @@
 {
-  "name": "@geut/lerna-travis-chan-demo",
+  "name": "@dewen_li/lerna-travis-chan-demo",
   "version": "1.0.0",
   "description": "nothing to see here :shipit:",
   "main": "index.js",
@@ -27,6 +27,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:geut/lerna-travis-demo.git"
+    "url": "git@github.com:dewen/lerna-travis-demo.git"
   }
 }

@@ -71,3 +71,4 @@ packages/clap/bin/
 .vscode/settings.json
 
 .npmrc
+package-lock.json
