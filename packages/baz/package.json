@@ -9,7 +9,7 @@
   "dependencies": {
     "@geut/foo": "^0.0.3"
   },
-  "author": "",
+  "author": "d1",
   "license": "ISC",
   "publishConfig": {
     "access": "public"
