@@ -1,7 +1,7 @@
 {
   "name": "@dewen_li/baz",
   "version": "0.0.6",
-  "description": "nothing to see here",
+  "description": "changes for ver 0.0.7",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
